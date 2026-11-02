@@ -6,16 +6,6 @@ Larynth builds AI phone agents for small businesses. An agent answers calls, boo
 - Docs and API reference: [docs.larynth.com](https://docs.larynth.com)
 - Status: [status.larynth.com](https://status.larynth.com)
 
-## Open source
-
-| Repository | What it is |
-| --- | --- |
-| [larynth-node](https://github.com/Larynth-Labs/larynth-node) | TypeScript SDK, `npm install @larynth/sdk` |
-| [larynth-python](https://github.com/Larynth-Labs/larynth-python) | Python SDK, `pip install larynth` |
-| [larynth-docs](https://github.com/Larynth-Labs/larynth-docs) | Source of docs.larynth.com |
-
-Both SDKs are generated from the public OpenAPI spec and include webhook signature verification.
-
 ## Contact
 
 Support: support@larynth.com. Security reports: security@larynth.com, or a private advisory on the affected repository.
