@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Product support
+    url: https://larynth.com/contact
+    about: Help with your account, agents, numbers or billing
+  - name: Documentation
+    url: https://docs.larynth.com
+    about: Guides and API reference
+  - name: Report a security vulnerability
+    url: https://larynth.com/contact
+    about: Email security@larynth.com. Do not open a public issue
